@@ -1,2 +1,2 @@
-# uber-clone
+# TranspoHub
 An Uber clone
